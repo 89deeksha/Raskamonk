@@ -6,25 +6,25 @@ const stats = [
     icon: <Smile size={28} />,
     value: "500+",
     label: "Happy Clients",
-    desc: "நாங்கள் மீட்டுக் கொண்டுவர உதவிய புன்னகைகள் 💜",
+    desc: "நாங்கள் மீட்டுக் கொண்டுவர உதவிய புன்னகைகள் ",
   },
   {
     icon: <Star size={28} />,
     value: "98%",
     label: "Satisfaction",
-    desc: "People trust and feel better",
+    desc: "மக்கள் நம்பிக்கை வைத்து, மனநிம்மதியுடன் உணர்கிறார்கள்.",
   },
   {
     icon: <Users size={28} />,
     value: "50+",
     label: "Therapists",
-    desc: "Experts who truly care",
+    desc: "உண்மையிலேயே அக்கறை கொண்ட நிபுணர்கள்",
   },
   {
     icon: <Clock size={28} />,
     value: "24/7",
     label: "Support",
-    desc: "We’re always here for you",
+    desc: "நாங்கள் எப்போதும் உங்களுக்காக இருக்கிறோம்",
   },
 ];
 
